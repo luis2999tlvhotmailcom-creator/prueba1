@@ -1,0 +1,12 @@
+pruebavictoria_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=g06fdf26f60d78d_pruebavictoria_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+pruebavictoria_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=g06fdf26f60d78d_pruebavictoria_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+pruebavictoria_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=g06fdf26f60d78d_pruebavictoria_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+pruebavictoria_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=g06fdf26f60d78d_pruebavictoria_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+pruebavictoria_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=g06fdf26f60d78d_pruebavictoria_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
